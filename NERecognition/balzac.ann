@@ -1,0 +1,630 @@
+T3	Person 615 622	Popinot
+T5	Person 804 813	Birotteau
+T6	Person 823 830	Popinot
+T8	Person 1018 1027	Vauquelin
+T9	Person 1097 1106	Birotteau
+T10	Person 1618 1626	Molineux
+T11	Person 1815 1823	Molineux
+T12	Person 1835 1844	Birotteau
+T13	Person 2147 2155	Molineux
+T14	Person 2421 2430	Birotteau
+T15	Person 2746 2755	Birotteau
+T16	Person 3020 3028	Molineux
+T17	Person 3212 3218	Cairon
+T18	Person 3287 3296	Birotteau
+T19	Person 3351 3359	Lourdois
+T21	Person 3501 3509	Molineux
+T22	Person 3825 3833	Molineux
+T24	Person 4087 4095	Molineux
+T25	Person 4185 4190	Ragon
+T26	Person 4194 4204	Pillerault
+T27	Person 4266 4271	Ragon
+T28	Person 4514 4522	Lourdois
+T30	Person 4825 4835	Pillerault
+T31	Person 4931 4936	Ragon
+T32	Person 4942 4950	Lourdois
+T33	Person 5200 5205	Ragon
+T36	Person 5455 5465	Pillerault
+T37	Person 5575 5584	Birotteau
+T38	Person 5667 5675	Lourdois
+T39	Person 5701 5709	Molineux
+T40	Person 5830 5840	Pillerault
+T41	Person 5844 5849	Ragon
+T42	Person 6912 6920	Lourdois
+T44	Person 7320 7328	Molineux
+T47	Person 7633 7641	Lourdois
+T48	Person 7672 7677	Ragon
+T49	Person 8096 8101	Ragon
+T50	Person 8162 8170	Lourdois
+T51	Person 8261 8268	Grindot
+T52	Person 8274 8282	Lourdois
+T53	Person 8332 8341	Birotteau
+T56	Person 8474 8484	Pillerault
+T57	Person 8493 8501	Lourdois
+T58	Person 8505 8512	Grindot
+T59	Person 8611 8618	Grindot
+T60	Person 8627 8635	Molineux
+T61	Person 8804 8811	Grindot
+T62	Person 9287 9295	Lourdois
+T63	Person 9341 9350	Birotteau
+T64	Person 9562 9569	Grindot
+T65	Person 9582 9591	Birotteau
+T68	Person 9720 9727	Thorein
+T69	Person 9833 9840	Grindot
+T70	Person 10018 10025	Grindot
+T71	Company 10230 10237	Tanrade
+T72	Person 10486 10495	Birotteau
+T75	Location 10810 10815	Paris
+T77	Person 11669 11676	Grindot
+T78	Person 12189 12198	Birotteau
+T79	Person 12269 12277	Lourdois
+T80	Person 12288 12296	Lourdois
+T81	Person 12302 12311	Birotteau
+T82	Person 12341 12350	Birotteau
+T83	Person 12390 12398	Lourdois
+T84	Person 12421 12428	Grindot
+T85	Person 12544 12552	Lourdois
+T86	Person 12722 12731	Birotteau
+T88	Person 12850 12858	Lourdois
+T90	Person 13154 13163	Birotteau
+T91	Person 13360 13365	César
+T92	Person 13450 13457	Thorein
+T93	Person 13461 13471	Chaffaroux
+T94	Person 13540 13550	Chaffaroux
+T96	Location 13647 13652	Pérou
+T97	Person 13822 13830	Lourdois
+T99	Person 14194 14200	Roguin
+T102	Person 14381 14387	Roguin
+T104	Person 14727 14735	Claparon
+T105	Person 14744 14750	Roguin
+T106	Person 14752 14758	Roguin
+T107	Person 14849 14857	Claparon
+T108	Person 14941 14949;14950 14958	monsieur Claparon
+T110	Person 15022 15028	Roguin
+T114	Person 15334 15340	Roguin
+T117	Organization 15643 15645;15646 15652	la Banque
+T120	Person 15916 15922	Roguin
+T121	Person 16088 16094	Roguin
+T122	Location 16502 16514	Palais-Royal
+T123	Person 16645 16651	Roguin
+T128	Person 17551 17560	Birotteau
+T130	Person 17760 17777	Alexandre Crottat
+T131	Person 17895 17901	Roguin
+T133	Person 18156 18173	Alexandre Crottat
+T136	Person 18678 18683	Ragon
+T137	Person 18685 18695	Pillerault
+T138	Person 18970 18979	Birotteau
+T139	Person 19047 19056	Birotteau
+T140	Person 19355 19364	Birotteau
+T141	Person 19513 19520	Xandrot
+T142	Person 19642 19649	Xandrot
+T143	Person 19985 19991	Roguin
+T144	Person 20129 20139	Pillerault
+T145	Person 20145 20150	Ragon
+T146	Person 20196 20205	Birotteau
+T147	Person 20538 20545	Xandrot
+T148	Person 20598 20615	Alexandre Crottat
+T149	Person 20818 20835	Alexandre Crottat
+T150	Person 20895 20904	Constance
+T151	Person 20996 21005	Birotteau
+T152	Person 21256 21265	Constance
+T155	Person 21564 21570	Haudry
+T156	Person 21583 21592	Birotteau
+T157	Person 21603 21609	Haudry
+T158	Person 21993 22002	Constance
+T159	Person 22665 22674	Constance
+T160	Person 23130 23138;23139 23145	monsieur Haudry
+T161	Person 23278 23287	Constance
+T162	Person 23812 23819	Popinot
+T163	Person 23850 23860	Pillerault
+T164	Person 24470 24488	FRANCOIS BIROTTEAU
+T165	Person 24940 24948;24949 24954	monsieur Lebas
+T166	Person 24980 24988;24989 24994	Monsieur Lebas
+T168	Person 25312 25320	Gigonnet
+T171	Person 25645 25650	Lebas
+T175	Person 25818 25826	Claparon
+T177	Person 25924 25929	Lebas
+T178	Person 25985 25994	Birotteau
+T179	Person 26160 26168	Claparon
+T180	Person 26285 26292	Bidault
+T181	Person 26521 26530	Birotteau
+T182	Person 26571 26580	Birotteau
+T184	Person 27012 27020	Claparon
+T185	Person 27040 27049	Birotteau
+T186	Person 27159 27165	Roguin
+T187	Person 27291 27297	Roguin
+T188	Person 27340 27349	Birotteau
+T192	Person 27768 27776	Claparon
+T193	Person 27860 27868	Claparon
+T194	Person 28050 28055	Lebas
+T195	Person 28057 28066	Birotteau
+T196	Person 28097 28105	Claparon
+T197	Person 28223 28232	Birotteau
+T198	Person 28399 28407	Claparon
+T200	Person 28586 28595	Birotteau
+T201	Person 28710 28719	Birotteau
+T202	Person 28734 28742	Claparon
+T204	Person 28917 28929	Joseph Lebas
+T205	Person 28954 28962	Claparon
+T206	Person 29186 29195	Birotteau
+T207	Person 29225 29233	Claparon
+T208	Person 29247 29252	Lebas
+T209	Person 29339 29348	Birotteau
+T210	Person 30065 30074	Birotteau
+T211	Person 30216 30222	Roguin
+T212	Person 30469 30474	Lebas
+T214	Person 30633 30641	Claparon
+T215	Person 30842 30848	Roguin
+T216	Person 30855 30860	Lebas
+T217	Person 31053 31061	Claparon
+T218	Person 31114 31120	Roguin
+T220	Person 31399 31404	Lebas
+T221	Person 31409 31415	Roguin
+T223	Person 31504 31512	Claparon
+T224	Person 31558 31566	Claparon
+T226	Person 32110 32116	Roguin
+T227	Person 32122 32130	Claparon
+T229	Person 32979 32988	Birotteau
+T230	Person 33091 33096	Lebas
+T231	Person 33099 33108	Birotteau
+T233	Person 33264 33272	Claparon
+T234	Person 33390 33396	Roguin
+T239	Person 33796 33802	Roguin
+T241	Person 33989 33997	Claparon
+T242	Person 34262 34268	Roguin
+T243	Person 34273 34281	Claparon
+T244	Person 34318 34326	Claparon
+T245	Person 34345 34351	Roguin
+T246	Person 34379 34387	Claparon
+T247	Person 34469 34475	Roguin
+T249	Person 34534 34542	Claparon
+T252	Person 34816 34824	Claparon
+T254	Person 34977 34985	Claparon
+T255	Person 35040 35049	Birotteau
+T256	Person 35288 35294	Roguin
+T257	Product 35454 35470	Huile Céphalique
+T259	Person 36257 36266	Birotteau
+T260	Person 36760 36768	Napoléon
+T261	Person 36997 37006	Birotteau
+T262	Person 37450 37459	Birotteau
+T263	Person 37700 37709	Birotteau
+T264	Person 37764 37774	Pillerault
+T267	Person 38121 38131	Pillerault
+T268	Person 38167 38176	Birotteau
+T269	Person 38221 38231	Pillerault
+T270	Person 38492 38501	Birotteau
+T271	Person 38734 38743	Birotteau
+T272	Person 38939 38944	Ragon
+T274	Person 39557 39566	Constance
+T276	Person 39788 39797	Birotteau
+T277	Person 39805 39815	Pillerault
+T278	Person 40151 40160	Constance
+T280	Person 40316 40326	Pillerault
+T282	Person 40766 40776	Pillerault
+T283	Person 41082 41091	Birotteau
+T284	Person 41478 41487	Birotteau
+T285	Person 41724 41733	Birotteau
+T286	Person 41854 41860	Roguin
+T287	Person 41874 41880	Roguin
+T290	Person 42841 42850	Birotteau
+T291	Person 43309 43318	Birotteau
+T292	Location 43547 43552	Paris
+T294	Person 44000 44008	Lourdois
+T295	Person 44010 44017	Thorein
+T296	Person 44019 44026	Grindot
+T297	Person 44028 44038	Chaffaroux
+T298	Location 44249 44254	Paris
+T300	Person 45250 45259	Birotteau
+T301	Person 46637 46652	François Keller
+T302	Location 46823 46828	Paris
+T303	Person 46857 46866	Birotteau
+T304	Person 47091 47098	Popinot
+T305	Person 47330 47339	Constance
+T306	Location 47915 47925	Saint-Roch
+T307	Location 47984 47994	Saint-Roch
+T308	Person 48588 48597	Birotteau
+T309	Person 48636 48645	Constance
+T310	Person 48697 48704	Popinot
+T311	Person 48781 48789	Claparon
+T313	Person 48925 48934	Birotteau
+T314	Person 49172 49181	Birotteau
+T315	Person 49292 49307	François Keller
+T316	Location 49335 49340	Paris
+T317	Product 49455 49471	Huile Céphalique
+T319	Person 49628 49638	Gaudissart
+T320	Person 49646 49651	Finot
+T321	Location 49788 49793	Paris
+T322	Product 49855 49871	Huile Céphalique
+T323	Person 49916 49921	Finot
+T325	Company 50170 50186	Huile Céphalique
+T326	Location 50210 50215	Paris
+T327	Product 50521 50537	Huile Céphalique
+T328	Person 50607 50616	Birotteau
+T329	Company 50671 50686	Cloche-d’Argent
+T331	Person 51117 51124	Popinot
+T332	Person 51202 51211	Constance
+T333	Person 51338 51345	Popinot
+T337	Person 51503 51513	Pillerault
+T340	Person 51793 51800	Popinot
+T341	Person 51950 51959	Birotteau
+T342	Person 52076 52082	Roguin
+T343	Person 52168 52177	Birotteau
+T344	Person 52179 52186	Popinot
+T345	Person 52196 52201	Finot
+T346	Product 52381 52397	Huile Céphalique
+T347	Company 52399 52404	Finot
+T349	Person 52877 52887	Gaudissart
+T350	Person 53627 53632	Finot
+T351	Product 53756 53772	Huile Céphalique
+T352	Person 53787 53795	Regnauld
+T353	Company 53803 53822	Mixture Brésilienne
+T354	Person 54143 54149	Tullie
+T356	Product 54529 54545	Huile Céphalique
+T357	Person 54586 54595	Vauquelin
+T358	Person 54754 54764	Gaudissart
+T359	Location 54962 54967	Paris
+T360	Product 55196 55206	Gaudissart
+T361	Person 55397 55402	Finot
+T363	Person 55511 55518	Pierrot
+T365	Person 55715 55720	Finot
+T366	Product 56146 56156	Gaudissart
+T367	Person 56265 56272	Popinot
+T368	Company 56420 56439	Mixture Brésilienne
+T369	Location 56454 56462	Regnauld
+T370	Person 56750 56757	Popinot
+T371	Person 56884 56893	Birotteau
+T372	Person 56938 56945	Popinot
+T373	Person 57175 57184	Birotteau
+T375	Person 57283 57290	Popinot
+T376	Person 57344 57353	Birotteau
+T377	Person 57845 57847	n’
+T378	Location 58135 58140	Paris
+T380	Person 58281 58290	Constance
+T381	Person 58294 58303	Birotteau
+T382	Person 58377 58379	n’
+T385	Person 58754 58763	Birotteau
+T387	Company 59081 59090	Birotteau
+T388	Person 59438 59447	Birotteau
+T389	Person 60001 60010	Birotteau
+T390	Person 60127 60142	François Keller
+T391	Person 60228 60237	Birotteau
+T392	Person 60686 60695	Birotteau
+T393	Person 61188 61197	Birotteau
+T395	Person 61472 61481	Birotteau
+T396	Person 61622 61631	Birotteau
+T397	Company 61693 61700	Moskowa
+T399	Person 61896 61911	François Keller
+T400	Person 62520 62529	Birotteau
+T401	Person 63444 63453	Birotteau
+T402	Person 63535 63550	François Keller
+T403	Person 63633 63639	Keller
+T405	Location 63857 63863	Europe
+T406	Person 64160 64175	François Keller
+T407	Person 64278 64286	Napoléon
+T409	Person 64426 64435	Birotteau
+T411	Person 64959 64965	Thibon
+T413	Person 65183 65189	Keller
+T414	Person 65208 65217	Birotteau
+T415	Person 65384 65399	François Keller
+T416	Person 65531 65540	Birotteau
+T418	Person 65620 65626	Keller
+T421	Person 66215 66221	Keller
+T423	Person 66273 66282	Birotteau
+T425	Person 67433 67442	Birotteau
+T426	Person 67559 67565	Keller
+T427	Location 67585 67596	Gendreville
+T428	Person 67619 67628	Birotteau
+T430	Person 68888 68894	Keller
+T432	Person 70558 70567	Birotteau
+T433	Person 70703 70712	Birotteau
+T435	Person 71271 71280	Birotteau
+T437	Person 71634 71643	Birotteau
+T438	Person 71677 71691	Adolphe Keller
+T439	Location 71788 71793	Paris
+T440	Person 71858 71864	Keller
+T442	Person 72095 72104	Birotteau
+T443	Person 72188 72202	Adolphe Keller
+T445	Person 73343 73352	Birotteau
+T446	Person 73629 73638	Birotteau
+T447	Person 73646 73654	Molineux
+T448	Person 73846 73853	Popinot
+T449	Company 73961 73976	Eau Carminative
+T450	Person 73988 73994	Roguin
+T452	Person 74111 74117	Keller
+T453	Person 74145 74154	Birotteau
+T454	Person 74224 74238	Adolphe Keller
+T455	Person 74248 74257	Birotteau
+T456	Person 74289 74297	Molineux
+T457	Person 74407 74416	Birotteau
+T458	Company 74468 74484	Huile Céphalique
+T459	Person 74498 74505	Popinot
+T460	Person 74598 74612	Adolphe Keller
+T461	Person 74841 74850	Birotteau
+T462	Person 75274 75282	Napoléon
+T463	Location 75297 75307	Saint-Roch
+T464	Person 75309 75318	Birotteau
+T465	Organization 75542 75558	Banque de France
+T466	Person 75566 75572	Keller
+T467	Person 75597 75611	Adolphe Keller
+T468	Organization 75616 75622	Banque
+T469	Organization 75686 75692	Banque
+T470	Person 75698 75707	Birotteau
+T472	Organization 75999 76005	Banque
+T473	Person 76441 76450	Birotteau
+T474	Location 76760 76765	Paris
+T475	Person 77188 77194	Keller
+T476	Person 77232 77240	Claparon
+T478	Location 77787 77792	Havre
+T479	Location 77794 77802	Bordeaux
+T480	Location 77806 77815	Marseille
+T481	Person 77979 77988	Birotteau
+T482	Location 78413 78422	Allemagne
+T484	Person 78829 78835	Roguin
+T485	Person 78941 78947	Roguin
+T487	Person 79220 79226	Roguin
+T488	Location 79625 79634	Allemagne
+T489	Person 79680 79689	Birotteau
+T491	Location 79732 79742	Lenoncourt
+T492	Person 79917 79926	Birotteau
+T493	Person 80075 80084	Birotteau
+T495	Person 80759 80765;80766 80772	Madame Roguin
+T496	Person 81205 81214	Birotteau
+T497	Person 81337 81343	Keller
+T498	Person 81369 81383	Adolphe Keller
+T499	Person 121 126	César
+T500	Person 2835 2843	Célestin
+T2	Person 417 440	A. Popinot et Compagnie
+T20	Person 768 775	Anselme
+T29	Location 1240 1248	la Seine
+T34	Person 2030 2035	César
+T501	Person 5885 5890	César
+T507	Person 7028 7033	César
+T43	Person 3177 3189	sieur Cayron
+T508	Person 7433 7438	César
+T509	Person 3409 3418	parfumeur
+T510	Person 3564 3574	architecte
+T35	Person 3963 3979	monsieur Grindot
+T503	Person 4256 4260	juge
+T511	Person 4287 4292	César
+T512	Person 4578 4585	peintre
+T513	Person 4664 4673	parfumeur
+T514	Person 4759 4764	César
+T515	Person 4813 4818	César
+T516	Organization 5499 5518	Chambre des Députés
+T517	Organization 5557 5569	gouvernement
+T519	Person 5979 5988	parfumeur
+T520	Organization 6705 6711	Bourse
+T521	Person 7289 7297	Monsieur
+T45	Person 7718 7723	César
+T522	Person 7887 7901	maître-d’hôtel
+T523	Company 7924 7930	Chevet
+T524	Company 7953 7958	Félix
+T525	Person 7940 7949	patronnet
+T526	Person 7963 7969	garçon
+T527	Company 7973 7984	café de Foy
+T528	Person 7989 7999	clarinette
+T529	Company 8003 8011	Collinet
+T530	Person 8195 8200	César
+T531	Person 8212 8218	garçon
+T54	Person 8453 8471	monsieur Birotteau
+T109	Person 7609 7627	monsieur Birotteau
+T535	Product 9302 9338	affaire des terrains de la Madeleine
+T116	Person 9446 9456	architecte
+T536	Person 9465 9477	entrepreneur
+T538	Person 9696 9704	Lourdois
+T539	Person 9706 9716	Chaffaroux
+T66	Person 10157 10162	César
+T67	Person 10207 10212	Félix
+T541	Company 10217 10228	café de Foy
+T542	Person 10324 10333	parfumeur
+T543	Person 10544 10553	parfumeur
+T73	Person 10853 10858	César
+T74	Person 10889 10897	Célestin
+T544	Person 10863 10872	parfumeur
+T546	Person 11077 11087	détaillant
+T549	Person 11115 11120	César
+T76	Person 11383 11388	César
+T554	Person 11519 11524	César
+T560	Person 12826 12844	monsieur Birotteau
+T89	Person 13006 13013	Crottat
+T563	Person 13246 13256	architecte
+T564	Person 13299 13309	architecte
+T565	Location 13346 13354	faubourg
+T95	Person 13658 13663	César
+T98	Location 13921 13937	rue Saint-Honoré
+T569	Person 14003 14012	Alexandre
+T571	Person 14245 14262	monsieur Claparon
+T572	Person 14303 14320	monsieur Claparon
+T573	Person 14530 14546	Monsieur Popinot
+T575	Person 15540 15545	César
+T576	Person 15711 15728	monsieur Claparon
+T577	Person 15825 15838	madame Roguin
+T579	Person 15840 15858	monsieur du Tillet
+T580	Product 15980 16000	affaire des terrains
+T582	Company 16071 16086	maison Nucingen
+T583	Person 16259 16270	Hollandaise
+T124	Person 16730 16743	Madame Roguin
+T586	Person 17444 17452	Césarine
+T587	Person 17504 17513	Alexandre
+T127	Person 17800 17809	parfumeur
+T588	Person 17923 17930	notaire
+T589	Person 17964 17969	César
+T132	Person 18190 18195	César
+T590	Person 18330 18337	Crottat
+T592	Person 18349 18363	monsieur César
+T1	Organization 15513 15522	la Banque
+T4	Person 19062 19071	Alexandre
+T7	Person 19633 19639	César.
+T23	Person 20222 20229	Crottat
+T46	Person 20371 20379	Célestin
+T55	Person 20383 20391	Césarine
+T87	Person 20732 20737	César
+T100	Person 20921 20926	César
+T101	Location 20280 20299	La rue Saint-Honoré
+T111	Organization 21630 21648	l’école de Molière
+T113	Person 21831 21836	César
+T115	Person 22050 22058	Césarine
+T118	Person 22310 22318	Césarine
+T119	Person 22477 22489	Madame César
+T125	Person 22778 22786	Césarine
+T126	Person 22803 22808	César
+T129	Product 22886 22902	Code de commerce
+T134	Person 23039 23044	César
+T135	Person 23345 23350	César
+T153	Person 23478 23494	Monsieur Anselme
+T154	Person 24462 24467	CESAR
+T172	Person 23509 23517	Césarine
+T190	Person 24691 24699	Césarine
+T199	Person 24674 24679	César
+T225	Person 24859 24867	Césarine
+T228	Person 24890 24896	Raguet
+T232	Person 25004 25009	César
+T236	Person 25083 25101	monsieur Birotteau
+T237	Organization 25394 25412	la maison Claparon
+T248	Person 25541 25549	Célestin
+T167	Person 25499 25516	Monsieur Claparon
+T169	Person 25684 25692	Claparon
+T170	Person 25669 25681	le parfumeur
+T265	Organization 25744 25764	tribunal de commerce
+T266	Person 25720 25734	monsieur Lebas
+T502	Person 25798 25812	monsieur Lebas
+T504	Person 25881 25895	monsieur Lebas
+T183	Person 27379 27393	monsieur Lebas
+T505	Person 27489 27507	monsieur Birotteau
+T506	Person 28041 28055	monsieur Lebas
+T518	Person 28885 28902	Monsieur Claparon
+T534	Person 29386 29391	César
+T547	Person 30587 30605	Monsieur Birotteau
+T552	Person 30890 30895	César
+T553	Organization 31359 31368	la Banque
+T219	Organization 31422 31431	la Banque
+T222	Person 33712 33730	monsieur Birotteau
+T556	Person 33849 33867	monsieur Birotteau
+T557	Person 33494 33512	monsieur Birotteau
+T562	Person 33942 33954	Le parfumeur
+T568	Person 34202 34211	Du Tillet
+T574	Person 34507 34516	Du Tillet
+T578	Person 33201 33210	du Tillet
+T581	Person 33339 33348	du Tillet
+T251	Person 34959 34973	Monsieur Lebas
+T250	Location 36284 36303	la rue Saint-Honoré
+T258	Location 36312 36334	la rue des Bourdonnais
+T584	Product 37507 37525	le Constitutionnel
+T591	Organization 37814 37824	café David
+T593	Person 37838 37844	Roguin
+T594	Person 38000 38008	Claparon
+T595	Location 38650 38671	le quai des Morfondus
+T596	Product 38200 38218	le Constitutionnel
+T597	Location 39067 39089	les mines de Vortschin
+T598	Person 39205 39213	Césarine
+T275	Person 39639 39644	César
+T599	Person 40215 40224	les Ragon
+T600	Person 39515 39524	les Ragon
+T601	Person 40584 40589	César
+T281	Location 41144 41156	rue Vivienne
+T602	Organization 41158 41171	chez Derville
+T603	Person 41300 41312	Le parfumeur
+T604	Person 41320 41328	Derville
+T605	Person 43329 43337	Derville
+T606	Person 41785 41793	Derville
+T288	Person 42224 42233	parfumeur
+T289	Person 42244 42252	Derville
+T607	Person 42413 42425	le parfumeur
+T608	Person 42781 42789	Derville
+T609	Organization 42814 42834	tribunal de commerce
+T610	Person 43813 43825	le parfumeur
+T293	Person 43990 43998	Braschon
+T611	Person 44792 44800	Braschon
+T612	Location 44824 44846	faubourg Saint-Antoine
+T299	Location 45113 45137	les terrains du faubourg
+T613	Person 45368 45373	César
+T614	Person 45560 45568	Célestin
+T615	Person 45610 45618	Célestin
+T616	Person 45690 45695	César
+T617	Person 45977 45982	César
+T618	Person 46889 46901	le parfumeur
+T619	Person 47270 47282	Le parfumeur
+T620	Person 48273 48281	Césarine
+T312	Location 49535 49555	la maison A. Popinot
+T318	Person 50965 50970	César
+T621	Person 50872 50880	Célestin
+T622	Person 50811 50819	Célestin
+T623	Person 49653 49660	Anselme
+T624	Organization 50048 50085	l’Académie des sciences par Vauquelin
+T324	Person 50752 50768	monsieur Anselme
+T330	Person 50973 50985	Le parfumeur
+T625	Person 51489 51498	les Ragon
+T334	Person 52112 52117	César
+T335	Person 54131 54138	Florine
+T336	Product 55588 55607	l’huile de Macassar
+T338	Product 55418 55437	l’huile de Macassar
+T339	Person 56916 56924	Césarine
+T348	Organization 58234 58243	la Banque
+T355	Person 57381 57389	Césarine
+T374	Person 57812 57817	César
+T626	Person 58018 58030	Le parfumeur
+T627	Location 57825 57840	rue du Houssaye
+T628	Location 57890 57917	l’hôtel du banquier libéral
+T379	Organization 58614 58623	la Banque
+T383	Person 60927 60932	César
+T384	Person 61736 61748	le parfumeur
+T386	Person 62193 62200	Decazes
+T394	Person 64188 64193	César
+T398	Location 65705 65717	la Madeleine
+T404	Organization 65798 65816	la maison Claparon
+T408	Person 65839 65851	le parfumeur
+T410	Organization 66251 66268	la maison Popinot
+T412	Organization 66173 66190	la maison Popinot
+T417	Person 66751 66758	Adolphe
+T420	Person 67139 67151	le parfumeur
+T422	Person 67954 67970	monsieur Adolphe
+T424	Person 67865 67877	le parfumeur
+T429	Person 68123 68135	le parfumeur
+T629	Person 69614 69622	François
+T630	Person 69978 69985	Adolphe
+T631	Location 70284 70304	le cabinet d’Adolphe
+T632	Person 70460 70465	Palma
+T431	Organization 70494 70508	maison Keller,
+T633	Person 70541 70550	parfumeur
+T634	Person 70585 70592	Adolphe
+T103	Person 20512 20521	parfumeur
+T173	Person 71587 71597	les Keller
+T174	Person 71979 71997	monsieur Birotteau
+T176	Person 81509 81521	le parfumeur
+T189	Person 81028 81037	Du Tillet
+T191	Person 80443 80455	Le parfumeur
+T203	Person 80573 80582	du Tillet
+T213	Person 81227 81242	monsieur Legras
+T235	Person 81272 81278	Joseph
+T238	Person 78846 78855	du Tillet
+T240	Person 19185 19194	Du Tillet
+T253	Person 19255 19264	Du Tillet
+T273	Person 76941 76950	du Tillet
+T279	Person 77126 77135	du Tillet
+T362	Person 77158 77167	Du Tillet
+T364	Person 77262 77271	du Tillet
+T419	Person 77472 77481	du Tillet
+T434	Person 78683 78692	du Tillet
+T436	Person 79249 79258	du Tillet
+T441	Person 81083 81092	parfumeur
+T444	Person 77311 77320	parfumeur
+T451	Person 74632 74644	le parfumeur
+T471	Person 74264 74276	le parfumeur
+T477	Person 73566 73575	parfumeur
+T483	Person 72049 72061	le parfumeur
+T486	Person 71714 71726	le parfumeur
+T490	Person 62601 62613	le parfumeur
+T494	Person 63926 63935	parfumeur
+T585	Person 43429 43441	le parfumeur
+T635	Person 28325 28337	le parfumeur
+T636	Person 20843 20855	le parfumeur
+T637	Person 20356 20365	parfumeur
+T638	Person 19168 19180	le parfumeur
+T639	Person 1086 1095	parfumeur
+T640	Person 2492 2504	le parfumeur
+T641	Person 61992 62001	parfumeur
+T112	Person 2466 2478	L’architecte
+T532	Person 3810 3822	l’architecte
+T533	Person 3900 3912	l’architecte
+T537	Person 8293 8305	l’architecte
+T540	Person 12446 12458	l’architecte
