@@ -1,6 +1,6 @@
 # 19thCenturyFrenchNovels
 
-19th century French novels manually annotated on named entities (places and fictional characters). These texts were annotated in the context of two interships of Aicha Soudani and Yosra Meherzi from Carthage University, hosted and funded by the LATTICE Laboratory (UMR 8094) and co-supervised by Asma Bouhafs (Carthage University), Francesca Frontini (Praxiling) and Carmen Brando (EHESS) in collaboration with Yoann Dupont (INRIA) and Frédérique Mélanie-Becquet (LATTICE).
+19th century French novels manually annotated on named entities (places and fictional characters). These texts were annotated in the context of two interships of Aicha Soudani and Yosra Meherzi, hosted and funded by Carthage University and LATTICE Laboratory (UMR 8094) and co-supervised by Asma Bouhafs (Carthage University), Francesca Frontini (Praxiling) and Carmen Brando (EHESS) in collaboration with Yoann Dupont (INRIA) and Frédérique Mélanie-Becquet (LATTICE).
 
 At the moment, annotated texts are available in two formats, in the BRAT format (NER) and XML/TEI (for NEL).
 
