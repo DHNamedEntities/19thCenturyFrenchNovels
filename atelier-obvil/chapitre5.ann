@@ -1,0 +1,285 @@
+T1	Person 2895 2902	Roustan
+T2	Place 80 94	Saint-Eustache
+T3	Place 1064 1078	Saint-Eustache
+T4	Place 2352 2366	Saint-Eustache
+T5	Place 4617 4638	chapelle de la Vierge
+T6	Place 4325 4349	chapelle de sainte Agnès
+T7	Place 5888 5902	rue Montmartre
+T8	Place 6795 6819	chapelle de sainte Agnès
+T9	Place 9988 10009	chapelle de la Vierge
+T10	Place 11054 11061	Cayenne
+T11	Place 13088 13095	Cayenne
+T12	Place 13115 13120	Paris
+T13	Place 13548 13557	es Halles
+T14	Place 15273 15278	Paris
+T15	Place 15470 15486	l’Hôtel de Ville
+T16	Place 20238 20251	rue Pirouette
+T17	Place 21585 21598	rue Rambuteau
+T18	Place 21619 21638	trottoir des Halles
+T19	Place 21678 21699	rue de la Cossonnerie
+T20	Place 22561 22578	rue Pierre-Lescot
+T21	Place 22594 22613	place des Innocents
+T22	Place 23451 23471	quartier Saint-Denis
+T23	Place 28596 28611	rue Saint-Denis
+T24	Place 29131 29137	Halles
+T25	Place 29609 29627	restaurant Baratte
+T26	Place 34285 34298	rue Rambuteau
+T27	Place 34770 34789	quartier des Halles
+T28	Place 36601 36609	Provence
+T29	Place 36525 36529	Nord
+T30	Place 36548 36552	Midi
+T31	Place 41919 41929	rue Berger
+T32	Place 45896 45905	Normandie
+T33	Place 50293 50300	Cayenne
+T34	Place 52607 52613	Halles
+T35	Place 53242 53248	Halles
+T36	Place 53359 53364	Paris
+T37	Place 55185 55206	rue de la Cossonnerie
+T38	Place 62326 62332	Halles
+T39	Place 62761 62771	rue Berger
+T40	Place 65097 65106	Tuileries
+T41	Place 65537 65546	Tuileries
+T42	Place 66123 66134	rue Grenéta
+T43	Place 65603 65609	Halles
+T44	Place 62142 62152	grande rue
+T45	Place 70247 70267	boulevard Montmartre
+T46	Place 70451 70457	Guyane
+T47	Place 75921 75928	Cayenne
+T48	Place 78255 78261	Halles
+T49	Place 78767 78802	station de la pointe Saint-Eustache
+T50	Place 78827 78835	Bastille
+T51	Place 78841 78853	place Wagram
+T52	Place 80026 80039	rue Pirouette
+T53	Place 80346 80352	Halles
+T54	Place 81941 81954	Les Tuileries
+T55	Place 82453 82459	Halles
+T56	Place 83474 83479	Paris
+T57	Place 84793 84811	plaine Saint-Denis
+T58	Place 87324 87338	rue Popincourt
+T59	Place 89507 89514	Cayenne
+T60	Place 89598 89603	Paris
+T61	Place 92677 92691	rue Miromesnil
+T62	Place 97403 97409	Halles
+T63	Place 98020 98026	France
+T64	Place 98978 98993	rue Vauvilliers
+T65	Place 102831 102840	Plaisance
+T66	Place 102862 102871	Montrouge
+T67	Place 103635 103641	Halles
+T68	Place 104992 105002	Strasbourg
+T69	Place 106940 106946	Halles
+T70	Place 107306 107322	rue du Pont-Neuf
+T71	Place 107326 107340	rue de Turbigo
+T72	Place 114592 114601	faubourgs
+T73	Place 115481 115487	Halles
+T74	Place 127181 127195	Saint-Eustache
+T75	Place 126971 126990	théâtre de la Gaîté
+T76	Place 127286 127305	théâtre de la Gaîté
+T77	Place 127385 127402	Palais de Justice
+T78	Place 127530 127550	préfecture de police
+T79	Place 128957 128962	Havre
+T80	Place 128967 128972	Rouen
+T81	Place 128977 128983	Vernon
+T82	Place 129124 129130	Halles
+T83	Place 131487 131492	Seine
+T84	Place 131388 131402	place Dauphine
+T85	Place 131411 131428	quai de l’Horloge
+T86	Place 131798 131803	Seine
+T87	Place 132615 132629	Pont-au-Change
+T88	Place 133757 133762	Paris
+T89	Place 133812 133820	la Gaîté
+T90	Place 133291 133307	bois de Boulogne
+T91	Place 132746 132756	préfecture
+T92	Place 135202 135216	Palais-Bourbon
+T93	Place 135222 135236	Hôtel de Ville
+T94	Place 135999 136013	rue Montmartre
+T95	Place 115552 115565	rue Rambuteau
+T96	Place 130000 130006	Halles
+T97	Place 135342 135348	Halles
+T98	Place 136141 136152	Batignolles
+T99	Place 136918 136925	Clamart
+T100	Place 138576 138586	préfecture
+T101	Place 140167 140183	baies de Norvège
+T102	Place 140827 140833	Halles
+T103	Place 141356 141361	Paris
+T104	Place 141571 141577	Halles
+T105	Place 142409 142414	Paris
+T106	Place 142921 142927	Halles
+T107	Place 5968 5974	Halles
+T108	Place 11210 11216	Halles
+T109	Place 18898 18904	Halles
+T110	Place 138236 138242	Halles
+T111	Place 3665 3671	Halles
+T112	Place 2566 2590	chapelle de sainte Agnès
+T113	Place 13299 13305	Halles
+T114	Place 69141 69147	Halles
+T115	Place 99250 99256	Halles
+T116	Place 66443 66448	Paris
+T117	Place 86597 86602	Paris
+T118	Place 101529 101534	Paris
+T119	Place 33036 33049	rue Pirouette
+T120	Place 45839 45847	Bretagne
+T121	Person 63 67	Lisa
+T122	Person 497 501	Lisa
+T123	Person 1871 1875	Lisa
+T124	Person 5265 5269	Lisa
+T125	Person 7506 7510	Lisa
+T126	Person 9822 9826	Lisa
+T127	Person 10516 10520	Lisa
+T128	Person 11742 11746	Lisa
+T129	Person 13661 13665	Lisa
+T130	Person 15799 15803	Lisa
+T131	Person 16456 16460	Lisa
+T132	Person 17782 17786	Lisa
+T133	Person 33171 33175	Lisa
+T134	Person 33633 33637	Lisa
+T135	Person 51454 51458	Lisa
+T136	Person 52381 52385	Lisa
+T137	Person 53765 53769	Lisa
+T138	Person 54152 54156	Lisa
+T139	Person 67038 67042	Lisa
+T140	Person 72468 72472	Lisa
+T141	Person 72617 72621	Lisa
+T142	Person 75294 75298	Lisa
+T143	Person 77576 77580	Lisa
+T144	Person 78098 78102	Lisa
+T145	Person 79118 79122	Lisa
+T146	Person 80105 80109	Lisa
+T147	Person 98073 98077	Lisa
+T148	Person 102514 102518	Lisa
+T149	Person 104326 104330	Lisa
+T150	Person 105470 105474	Lisa
+T151	Person 106136 106140	Lisa
+T152	Person 107408 107412	Lisa
+T153	Person 108250 108254	Lisa
+T154	Person 109053 109057	Lisa
+T155	Person 109618 109622	Lisa
+T156	Person 110564 110568	Lisa
+T157	Person 111190 111194	Lisa
+T158	Person 112449 112453	Lisa
+T159	Place 112523 112536	rue Pirouette
+T160	Person 113595 113599	Lisa
+T161	Person 118155 118159	Lisa
+T162	Person 118508 118512	Lisa
+T163	Person 119218 119222	Lisa
+T164	Person 119785 119789	Lisa
+T165	Person 120618 120622	Lisa
+T166	Person 120960 120964	Lisa
+T167	Person 122326 122330	Lisa
+T168	Person 122650 122654	Lisa
+T169	Person 123458 123462	Lisa
+T170	Person 125020 125024	Lisa
+T171	Person 125997 126001	Lisa
+T172	Person 128270 128274	Lisa
+T173	Person 129204 129208	Lisa
+T174	Person 132984 132988	Lisa
+T175	Person 133980 133984	Lisa
+T176	Person 134916 134920	Lisa
+T177	Person 138690 138694	Lisa
+T178	Person 142715 142719	Lisa
+T179	Person 76666 76672	Claire
+T180	Person 9872 9878	Claire
+T181	Person 9902 9908	Claire
+T182	Person 6599 6605	Claire
+T183	Person 6088 6094	Claire
+T184	Person 6079 6086	Méhudin
+T185	Person 6565 6572	Méhudin
+T186	Person 14216 14223	Méhudin
+T187	Person 30369 30376	Méhudin
+T188	Person 51926 51933	Méhudin
+T189	Person 52085 52092	Méhudin
+T190	Person 67397 67404	Méhudin
+T191	Person 75719 75726	Méhudin
+T192	Person 77361 77368	Méhudin
+T193	Person 79500 79507	Méhudin
+T194	Person 101749 101756	Méhudin
+T195	Person 121624 121631	Méhudin
+T196	Person 129883 129890	Méhudin
+T197	Person 126279 126286	Roustan
+T198	Person 7543 7550	Roustan
+T199	Person 6879 6886	Roustan
+T200	Person 4413 4420	Roustan
+T201	Person 1052 1059	Roustan
+T202	Person 7021 7026	Quenu
+T203	Person 8356 8361	Quenu
+T204	Person 9632 9637	Quenu
+T205	Person 17291 17296	Quenu
+T206	Person 17703 17710	Pauline
+T207	Person 49695 49709	Quenu-Gradelle
+T208	Person 49901 49906	Quenu
+T209	Person 53478 53483	Quenu
+T210	Person 53580 53585	Quenu
+T211	Person 53844 53849	Quenu
+T212	Person 66555 66569	Quenu-Gradelle
+T213	Person 66903 66917	Quenu-Gradelle
+T214	Person 73110 73115	Quenu
+T215	Person 73453 73458	Quenu
+T216	Person 74189 74194	Quenu
+T217	Person 75100 75114	Quenu-Gradelle
+T218	Person 79607 79612	Quenu
+T219	Person 85640 85645	Quenu
+T220	Person 103131 103145	Quenu-Gradelle
+T221	Person 103264 103269	Quenu
+T222	Person 104624 104638	Quenu-Gradelle
+T223	Person 107153 107158	Quenu
+T224	Person 109112 109117	Quenu
+T225	Person 110805 110810	Quenu
+T226	Person 113525 113530	Quenu
+T227	Person 117136 117141	Quenu
+T228	Person 117627 117632	Quenu
+T229	Person 120470 120475	Quenu
+T230	Person 120525 120530	Quenu
+T231	Person 120967 120972	Quenu
+T232	Person 121363 121368	Quenu
+T233	Person 122657 122662	Quenu
+T234	Person 122894 122899	Quenu
+T235	Person 126706 126711	Quenu
+T236	Person 127015 127020	Quenu
+T237	Person 129087 129101	Quenu-Gradelle
+T238	Person 130129 130143	Quenu-Gradelle
+T239	Person 132787 132792	Quenu
+T240	Person 132864 132869	Quenu
+T241	Person 133615 133620	Quenu
+T242	Person 133857 133862	Quenu
+T243	Person 134683 134688	Quenu
+T244	Person 142706 142711	Quenu
+T245	Person 129503 129508	Saget
+T246	Person 123503 123508	Saget
+T247	Person 119965 119970	Saget
+T248	Person 118323 118328	Saget
+T249	Person 113655 113660	Saget
+T250	Person 110449 110454	Saget
+T251	Person 85520 85525	Saget
+T252	Person 83072 83077	Saget
+T253	Person 82253 82258	Saget
+T254	Person 81345 81350	Saget
+T255	Person 65723 65728	Saget
+T256	Person 65131 65136	Saget
+T257	Person 64623 64628	Saget
+T258	Person 63592 63597	Saget
+T259	Person 62178 62183	Saget
+T260	Person 61840 61845	Saget
+T261	Person 61080 61085	Saget
+T262	Person 60627 60632	Saget
+T263	Person 59201 59206	Saget
+T264	Person 58539 58544	Saget
+T265	Person 56517 56522	Saget
+T266	Person 55830 55835	Saget
+T267	Person 55053 55058	Saget
+T268	Person 52891 52896	Saget
+T269	Person 52003 52008	Saget
+T270	Person 50868 50873	Saget
+T271	Person 49394 49399	Saget
+T272	Person 45329 45334	Saget
+T273	Person 45116 45121	Saget
+T274	Person 44661 44666	Saget
+T275	Person 42637 42642	Saget
+T276	Person 41335 41340	Saget
+T277	Person 40464 40469	Saget
+T278	Person 35014 35019	Saget
+T279	Person 34189 34194	Saget
+T280	Person 32726 32731	Saget
+T281	Person 31665 31670	Saget
+T282	Person 30938 30943	Saget
+T283	Person 28143 28148	Saget
+T284	Person 27299 27304	Saget
+T285	Person 26879 26884	Saget

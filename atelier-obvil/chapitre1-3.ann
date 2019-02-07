@@ -1,0 +1,121 @@
+T1	Person 0 6	Claude
+T2	Place 256 262	Halles
+T3	Place 1147 1163	rue du Pont-Neuf
+T4	Person 1263 1269	Claude
+T5	Person 1282 1289	Florent
+T6	Place 1382 1396	Saint-Eustache
+T7	Place 1584 1599	rue Montorgueil
+T8	Place 1667 1681	rue Montmartre
+T9	Place 2044 2060	rue du Pont-Neuf
+T10	Place 2117 2122	Paris
+T11	Place 2138 2151	rue Rambuteau
+T12	Person 2669 2675	Claude
+T13	Person 2922 2930	Marjolin
+T14	Person 2936 2942	Cadine
+T15	Person 3076 3083	Florent
+T16	Person 3224 3238	Claude Lantier
+T17	Place 3271 3284	rue Pirouette
+T18	Person 3322 3329	Florent
+T19	Person 3447 3454	Florent
+T20	Person 3520 3535	madame François
+T21	Place 3560 3579	l'avenue de Neuilly
+T22	Place 4273 4279	Halles
+T23	Person 4587 4594	Florent
+T24	Place 5224 5230	Halles
+T25	Place 5344 5358	rue Montmartre
+T27	Place 5383 5394	rue Turbigo
+T28	Place 5543 5560	rue Pierre-Lescot
+T29	Place 5671 5684	rue Rambuteau
+T30	Place 5695 5715	boulevard Sébastopol
+T31	Place 5826 5841	rue Saint-Denis
+T32	Place 6055 6065	Les Halles
+T34	Place 6180 6190	rue Berger
+T35	Place 6192 6215	le square des Innocents
+T37	Place 6246 6260	rue des Halles
+T38	Place 6464 6477	rue de Rivoli
+T40	Place 6788 6804	Rue du Pont-Neuf
+T41	Person 6980 6988	Lacaille
+T42	Place 7002 7018	rue Saint-Honoré
+T43	Person 7332 7340	Lacaille
+T44	Place 7341 7356	rue Vauvilliers
+T45	Place 7372 7386	Halle-aux-Blé,
+T48	Place 7678 7684	Halles
+T49	Place 7686 7691	Paris
+T50	Person 9964 9971	Florent
+T52	Person 11523 11530	Florent
+T53	Person 12080 12095	madame François
+T54	Person 12127 12133	Claude
+T55	Place 12270 12283	rue Pirouette
+T56	Place 12417 12427	les Halles
+T57	Person 13281 13288	Florent
+T58	Place 14129 14140	rue Turbigo
+T59	Place 14510 14515	Paris
+T60	Place 14552 14558	Halles
+T63	Person 15190 15197	Florent
+T64	Person 15312 15319	Claude,
+T67	Person 15470 15479	Sarriette
+T74	Person 16902 16909	Florent
+T75	Person 17257 17263	Gavard
+T77	Person 17833 17840	Florent
+T78	Place 17866 17879	rue Pirouette
+T79	Person 17881 17887	Gavard
+T80	Person 17957 17962	Quenu
+T81	Place 18016 18029	rue Rambuteau
+T82	Place 18043 18049	Halles
+T83	Person 18112 18119	Florent
+T84	Person 18155 18169	Claude Lantier
+T85	Person 18229 18234	Quenu
+T86	Place 18317 18323	France
+T87	Place 18594 18607	rue Rambuteau
+T88	Person 18628 18635	Florent
+T89	Place 18781 18794	rue Rambuteau
+T90	Place 18857 18870	rue Pirouette
+T91	Place 18930 18944	Saint-Eustache
+T92	Person 19301 19308	Florent
+T93	Place 19436 19449	rue Pirouette
+T94	Organization 19630 19644	QUENU-GRADELLE
+T95	Person 22327 22334	Florent
+T96	Place 23672 23678	Halles
+T97	Person 23784 23788	Lisa
+T98	Person 23794 23800	Gavard
+T99	Person 23803 23810	Florent
+T100	Person 23959 23966	Florent
+T101	Person 24275 24282	Florent
+T102	Person 24356 24361	Quenu
+T103	Person 24481 24486	Quenu
+T104	Person 24568 24572	Lisa
+T105	Person 24586 24593	Florent
+T106	Person 24668 24672	Lisa
+T107	Person 24677 24681	Lisa
+T108	Person 24766 24773	Pauline
+T109	Person 25193 25197	Lisa
+T110	Person 25226 25233	Florent
+T111	Person 25261 25266	Quenu
+T112	Person 25595 25602	Florent
+T113	Person 26063 26070	Florent
+T114	Person 26150 26154	Lisa
+T115	Person 26168 26175	Pauline
+T116	Person 26508 26513	Quenu
+T117	Person 26597 26604	Florent
+T118	Place 26684 26690	Halles
+T26	Place 3154 3177	impasse des Bourdonnais
+T33	Place 5363 5366;5367 5378	rue Montorgueil
+T36	Place 6220 6229;6230 6241	rue de la Ferronnerie
+T39	Place 7522 7525;7526 7532	les Halles
+T46	Place 10162 10168;10169 10178	rue du Pont-Neuf
+T51	Person 15524 15530;15531 15538	madame Lecoeur
+T65	Person 15825 15839	Madame Lecoeur
+T68	Person 16621 16639	mademoiselle Saget
+T69	Person 16111 16117;16118 16125	madame Lecoeur
+T71	Person 16815 16829	madame Lecoeur
+T72	Person 17610 17628	mademoiselle Saget
+T61	Person 14813 14831	mademoiselle Saget
+T62	Person 14866 14880	madame Lecoeur
+T66	Person 15443 15461	mademoiselle Saget
+T70	Person 15937 15955	mademoiselle Saget
+T73	Place 2356 2371	maison Guillout
+T76	Place 6154 6163;6164 6175	rue de la Cossonnerie
+T119	Place 6490 6498;6499 6515	place de l'Hôtel-de-Ville
+T47	Place 7596 7617	pointe Saint-Eustache
+T120	Place 15320 15323;15324 15333	rue Pirouette
+T121	Product 20765 20795	langues fourrées de Strasbourg

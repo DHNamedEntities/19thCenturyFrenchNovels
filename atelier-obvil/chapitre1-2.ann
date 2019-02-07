@@ -1,0 +1,127 @@
+T2	Place 5691 5704	rue Pirouette
+T3	Place 6066 6079	rue Pirouette
+T4	Place 6263 6276	rue Pirouette
+T5	Place 6903 6916	rue Pirouette
+T6	Place 8775 8781	Halles
+T7	Place 9698 9711	rue Pirouette
+T9	Place 12506 12512	Halles
+T10	Place 17451 17457	Halles
+T11	Place 18164 18170	Halles
+T12	Place 19688 19694	Halles
+T13	Place 20066 20079	rue Pirouette
+T14	Place 21052 21058	Halles
+T15	Place 23130 23136	Halles
+T16	Place 24746 24752	Halles
+T17	Place 25739 25745	Halles
+T19	Person 126 132	Marcel
+T20	Person 361 366	Jules
+T21	Person 397 406	Sarriette
+T22	Person 506 511	Jules
+T1	Place 693 703	Les Halles
+T23	Place 950 971	pointe Saint-Eustache
+T24	Place 1176 1191	rue Montorgueil
+T25	Person 1141 1148	Florent
+T26	Person 1351 1366	madame François
+T27	Person 1456 1464	Lacaille
+T28	Person 1752 1767	Madame François
+T29	Person 1805 1813	Lacaille
+T30	Person 1905 1912	Florent
+T31	Person 2166 2181	madame François
+T32	Place 2193 2198	Paris
+T33	Person 2463 2470	Florent
+T34	Person 2504 2511	Florent
+T35	Person 2567 2575	Lacaille
+T36	Person 2842 2857	madame François
+T37	Person 3587 3602	madame François
+T38	Person 4107 4113	Claude
+T39	Person 4313 4328	madame François
+T40	Person 4899 4905	Claude
+T41	Person 4942 4949	Florent
+T42	Person 5203 5209	Claude
+T43	Person 5220 5227	Florent
+T44	Person 5326 5341	madame François
+T45	Person 5500 5507	Florent
+T46	Person 6013 6020	Florent
+T47	Person 6200 6206	Claude
+T48	Place 6472 6475;6476 6485	rue Rambuteau
+T49	Person 6823 6829	Claude
+T50	Place 7711 7727	rue de Mondétour
+T51	Person 7650 7656	Claude
+T52	Person 7674 7681	Florent
+T53	Person 8392 8399	Florent
+T54	Company 8483 8492	Godeboeuf
+T55	Person 8803 8821	mademoiselle Saget
+T56	Person 8840 8846	Claude
+T57	Person 9066 9073	Florent
+T58	Person 9359 9366	Murillo
+T59	Person 9467 9474	Murillo
+T60	Person 9633 9640	Florent
+T61	Person 9729 9735	Claude
+T62	Person 9803 9809	Claude
+T63	Person 9826 9833	Florent
+T64	Person 10156 10163	Lebigre
+T65	Person 10457 10464	Florent
+T66	Person 10474 10482	Lacaille
+T67	Person 10711 10718	Lebigre
+T68	Person 10825 10831	Claude
+T69	Person 10834 10841	Florent
+T70	Person 11144 11150	Claude
+T71	Person 11162 11171	Alexandre
+T72	Place 11232 11245	Charentonneau
+T73	Place 11332 11337	Marne
+T74	Person 11412 11418	Claude
+T75	Person 11421 11428	Florent
+T76	Person 11688 11695	Lebigre
+T77	Person 11882 11889	Florent
+T78	Person 12000 12009	Alexandre
+T79	Person 12043 12052	Alexandre
+T80	Person 12058 12064	Claude
+T81	Place 12128 12141	rue Rambuteau
+T8	Place 12373 12383	les Halles
+T82	Person 12386 12393	Florent
+T83	Place 12453 12456;12457 12466	rue Rambuteau
+T84	Person 12745 12752	Florent
+T85	Place 14524 14529	Paris
+T86	Person 14828 14835	Florent
+T87	Person 15770 15776	Claude
+T88	Person 16873 16880	Florent
+T89	Person 16863 16869	Claude
+T90	Place 17630 17640	rue Berger
+T91	Person 18090 18096	Claude
+T92	Person 18047 18057	Cendrillon
+T93	Person 18172 18178	Claude
+T94	Place 18306 18311	Paris
+T95	Person 18498 18506	Marjolin
+T96	Person 18728 18734	Claude
+T97	Person 18526 18532	Cadine
+T98	Person 18641 18648	Florent
+T99	Company 19560 19567	Baratte
+T100	Company 19473 19480	Baratte
+T101	Person 19828 19835	Florent
+T102	Company 19908 19915	Baratte
+T103	Person 19923 19929	Claude
+T104	Person 21338 21345	Florent
+T105	Person 21530 21536	Claude
+T106	Person 21731 21740	Alexandre
+T107	Person 21751 21758	Florent
+T108	Place 21983 22004	rue de la Cossonnerie
+T109	Place 22021 22041	boulevard Sébastopol
+T110	Person 22207 22213	Claude
+T111	Person 22647 22654	Florent
+T112	Person 22715 22723	Marjolin
+T113	Person 22936 22944	Marjolin
+T114	Person 23339 23345	Cadine
+T115	Person 23354 23370	mère Chantemesse
+T116	Person 24036 24043	Florent
+T117	Person 23654 23660	Claude
+T118	Place 23723 23744	pointe Saint-Eustache
+T119	Place 23878 23891	rue Rambuteau
+T120	Person 24109 24115	Claude
+T121	Place 24491 24505	Saint-Eustache
+T122	Person 24716 24723	Florent
+T123	Person 25542 25548	Claude
+T124	Place 25704 25725	pointe Saint-Eustache
+T125	Place 26444 26457	rue Rambuteau
+T18	Place 27294 27301;27302 27308	rue des Halles
+T126	Place 27655 27692	carrefour de la pointe Saint-Eustache
+T127	Place 27712 27715;27716 27725	rue Rambuteau

@@ -1,0 +1,291 @@
+T1	Person 28868 28873	Saget
+T2	Person 28915 28922	Florent
+T3	Person 29420 29426	Lecœur
+T4	Person 29713 29722	Sarriette
+T5	Person 29861 29867	Gavard
+T6	Person 30118 30125	Florent
+T7	Person 30222 30228	Gavard
+T8	Person 30565 30571	Lecœur
+T9	Person 30653 30659	Gavard
+T10	Person 30674 30683	Sarriette
+T11	Person 31029 31038	Sarriette
+T12	Person 31303 31309	Gavard
+T13	Person 31471 31480	Sarriette
+T14	Person 31889 31895	Gavard
+T15	Person 32035 32041	Gavard
+T16	Place 32333 32342	Tuileries
+T17	Place 32590 32596	Halles
+T18	Person 32653 32662	Sarriette
+T19	Person 32673 32679	Lecœur
+T20	Place 33082 33099	rue Pierre-Lescot
+T21	Person 33108 33114	Lecœur
+T22	Person 33126 33135	Sarriette
+T23	Person 33436 33445	Sarriette
+T24	Person 33627 33632	Saget
+T25	Person 33792 33799	Florent
+T26	Place 33819 33832	rue Rambuteau
+T27	Place 33838 33859	rue de la Cossonnerie
+T28	Person 51 58	Florent
+T29	Place 183 188	Paris
+T30	Person 220 239	Le Corps législatif
+T31	Person 521 528	Florent
+T32	Place 550 564	Palais-Bourbon
+T33	Place 777 796	rue de l’Université
+T34	Place 801 817	rue de Bourgogne
+T35	Place 822 841	rue Saint-Dominique
+T36	Place 864 887	esplanade des Invalides
+T37	Place 1002 1014	quai d’Orsay
+T38	Place 1153 1166	Champ-de-Mars
+T39	Place 1220 1229	Madeleine
+T40	Place 1387 1401	Champs-Élysées
+T41	Place 1335 1357	faubourg Saint-Germain
+T42	Place 1691 1707	rue de Bourgogne
+T43	Place 1714 1733	rue de l’Université
+T44	Place 1786 1791	Seine
+T45	Place 2254 2274	jardin des Tuileries
+T46	Place 2604 2617	rue de Rivoli
+T47	Person 2685 2700	madame François
+T48	Person 2955 2962	Florent
+T49	Place 2976 2982	Halles
+T50	Place 2990 3005	rue Vauvilliers
+T51	Person 3030 3044	Claude Lantier
+T52	Place 3193 3201	Marjolin
+T53	Person 3204 3211	Florent
+T54	Person 3321 3327	Claude
+T55	Person 3360 3368	Marjolin
+T56	Person 3733 3739	Gavard
+T57	Person 4015 4021	Claude
+T58	Place 4142 4147	Paris
+T59	Person 4246 4254	Marjolin
+T60	Person 4423 4431	Marjolin
+T61	Person 4436 4442	Cadine
+T62	Person 5031 5037	Claude
+T63	Person 5183 5189	Cadine
+T64	Person 5614 5621	Florent
+T65	Person 6320 6326	Claude
+T66	Person 6355 6361	Cadine
+T67	Person 6653 6661	Marjolin
+T68	Person 6686 6694	Marjolin
+T69	Person 6751 6757	Claude
+T70	Person 6761 6768	Florent
+T71	Person 7588 7596	Marjolin
+T72	Person 7974 7980	Cadine
+T73	Person 8260 8268	Marjolin
+T74	Person 8477 8483	Claude
+T75	Person 8505 8512	Florent
+T76	Person 8760 8767	Florent
+T77	Place 9562 9569	Cayenne
+T78	Person 9464 9470	Claude
+T79	Person 9772 9779	Florent
+T80	Person 9910 9916	Claude
+T81	Place 10061 10075	Palais-Bourbon
+T82	Place 10086 10100	Champs-Élysées
+T83	Place 10391 10407	rue du Pont-Neuf
+T84	Person 10477 10484	Auguste
+T85	Person 10684 10691	Florent
+T86	Person 10796 10810	Quenu-Gradelle
+T87	Person 10830 10837	Auguste
+T88	Person 10934 10941	Florent
+T89	Person 11057 11061	Lisa
+T90	Person 11613 11617	Lisa
+T91	Person 11666 11671	Quenu
+T92	Person 11821 11828	Auguste
+T93	Person 11906 11911	Quenu
+T94	Person 12043 12050	Auguste
+T95	Person 12085 12090	Quenu
+T96	Person 12351 12358	Méhudin
+T97	Place 12360 12373	rue Pirouette
+T98	Person 12480 12487	Florent
+T99	Person 12658 12665	Méhudin
+T100	Person 14106 14113	Florent
+T101	Person 14135 14142	Méhudin
+T102	Person 14441 14448	Florent
+T103	Person 14684 14691	Florent
+T104	Person 14859 14866	Florent
+T105	Person 15664 15669	Muche
+T106	Person 15896 15901	Muche
+T107	Person 16847 16854	Méhudin
+T108	Person 17396 17402	Claire
+T109	Person 17580 17585	Saget
+T110	Person 17799 17805	Claire
+T111	Person 18101 18107	Claire
+T112	Person 18452 18457	Muche
+T113	Person 18481 18488	Méhudin
+T114	Person 18511 18516	Saget
+T115	Person 18548 18554	Claire
+T116	Person 18743 18748	Saget
+T117	Person 19376 19381	Saget
+T118	Place 19440 19453	rue Pirouette
+T119	Person 19514 19528	Quenu-Gradelle
+T120	Person 19600 19604	Lisa
+T121	Person 19659 19664	Quenu
+T122	Person 19813 19820	Méhudin
+T123	Person 20128 20133	Saget
+T124	Person 20478 20483	Saget
+T125	Person 20516 20522	Louise
+T126	Person 20537 20544	Florent
+T127	Person 20654 20658	Lisa
+T128	Person 20948 20953	Saget
+T129	Place 20963 20976	rue Pirouette
+T130	Person 21079 21083	Lisa
+T131	Person 21544 21550	Claire
+T132	Person 21716 21722	Lecœur
+T133	Person 21729 21738	Sarriette
+T134	Place 21967 21980	rue Pirouette
+T135	Place 22023 22029	Halles
+T136	Place 22258 22264	Halles
+T137	Place 22385 22398	rue Pirouette
+T138	Person 22472 22481	Sarriette
+T139	Person 22530 22536	Lecœur
+T140	Person 23022 23026	Lisa
+T141	Person 23077 23081	Lisa
+T142	Person 23638 23643	Saget
+T143	Person 23804 23808	Lisa
+T144	Person 23936 23940	Lisa
+T145	Person 24278 24283	Saget
+T146	Person 24298 24304	Lecœur
+T147	Person 24311 24320	Sarriette
+T148	Person 24578 24584	Lecœur
+T149	Person 24631 24640	Sarriette
+T150	Person 24605 24612	Lebigre
+T151	Person 24678 24685	Lebigre
+T152	Person 24720 24725	Saget
+T153	Person 24974 24981	Méhudin
+T154	Person 25110 25117	Florent
+T155	Person 25485 25490	Muche
+T156	Person 25587 25596	Sarriette
+T157	Person 25810 25815	Muche
+T158	Person 26103 26108	Quenu
+T159	Person 26445 26452	Florent
+T160	Person 26469 26473	Lisa
+T161	Person 26664 26669	Quenu
+T162	Person 26687 26692	Quenu
+T163	Person 26815 26824	Taboureau
+T164	Person 26984 26988	Lisa
+T165	Person 27109 27116	Florent
+T166	Person 27223 27228	Saget
+T167	Person 27249 27254	Quenu
+T168	Person 27319 27328	Taboureau
+T169	Person 27366 27371	Quenu
+T170	Person 27424 27431	Florent
+T171	Person 27504 27510	Lecœur
+T172	Person 27731 27736	Quenu
+T173	Person 27921 27930	Sarriette
+T174	Person 28101 28109	Verlaque
+T175	Person 28262 28270	Verlaque
+T176	Person 28308 28313	Saget
+T177	Person 28646 28652	Lecœur
+T178	Person 28626 28635	Sarriette
+T179	Person 34099 34105	Léonce
+T180	Person 34249 34258	Sarriette
+T181	Person 34627 34636	Sarriette
+T182	Person 34689 34695	Lecœur
+T183	Person 35104 35110	Gavard
+T184	Person 35711 35720	Sarriette
+T185	Person 36011 36016	Saget
+T186	Person 36110 36116	Léonce
+T187	Person 36336 36342	Lecœur
+T188	Person 36667 36676	Sarriette
+T189	Person 36791 36797	Lecœur
+T190	Person 37137 37146	Sarriette
+T191	Person 37566 37571	Saget
+T192	Person 37582 37588	Léonce
+T193	Person 37834 37840	Lecœur
+T194	Place 37987 37996	Bruxelles
+T195	Person 38029 38038	Bonaparte
+T196	Person 38274 38283	Sarriette
+T197	Person 38495 38501	Léonce
+T198	Person 38720 38729	Sarriette
+T199	Place 38802 38814	ue Rambuteau
+T200	Person 38890 38896	Lecœur
+T201	Person 39082 39087	Saget
+T202	Person 39377 39384	Florent
+T203	Person 40024 40031	Florent
+T204	Person 39931 39938	Méhudin
+T205	Person 40327 40334	Florent
+T206	Person 40571 40577	Louise
+T207	Person 40930 40935	Saget
+T208	Person 40971 40975	Lisa
+T209	Person 41247 41254	Florent
+T210	Person 41312 41317	Logre
+T211	Person 41332 41339	Lebigre
+T212	Person 41566 41573	Auguste
+T213	Person 41971 41975	Lisa
+T214	Person 42324 42331	Méhudin
+T215	Person 43096 43101	Saget
+T216	Person 43302 43311	Sarriette
+T217	Person 43373 43380	Florent
+T218	Person 43905 43912	Auguste
+T219	Person 43989 43996	Méhudin
+T220	Person 44302 44307	Quenu
+T221	Place 45218 45227	Tuileries
+T222	Person 45276 45284	Marjolin
+T223	Person 45431 45438	Florent
+T224	Person 45756 45760	Lisa
+T225	Person 45922 45929	Florent
+T226	Person 45958 45963	Quenu
+T227	Person 46036 46043	Auguste
+T228	Person 46071 46078	Florent
+T229	Person 46623 46628	Saget
+T230	Person 46699 46705	Lecœur
+T231	Person 46725 46734	Sarriette
+T232	Person 47042 47048	Claire
+T233	Place 47070 47083	rue Pirouette
+T234	Person 47229 47236	Florent
+T235	Place 47464 47477	rue Pirouette
+T236	Person 47752 47756	Lisa
+T237	Person 47785 47794	Augustine
+T238	Person 47857 47862	Quenu
+T239	Person 48287 48291	Lisa
+T240	Place 48550 48567	rue Royer-Collard
+T241	Person 48787 48791	Lisa
+T242	Person 49514 49521	Florent
+T243	Person 50718 50722	Lisa
+T244	Person 50761 50768	Pauline
+T245	Person 50840 50847	Pauline
+T246	Person 51321 51328	Florent
+T247	Place 51648 51654	Halles
+T248	Place 51623 51628	Paris
+T249	Place 51758 51768	Montmartre
+T250	Person 52159 52166	Florent
+T251	Person 52425 52431	Robine
+T252	Person 52601 52607	Gavard
+T253	Person 52625 52632	Florent
+T254	Place 52985 52991	Halles
+T255	Person 52993 53007	Claude Lantier
+T256	Person 53134 53142	François
+T257	Place 53156 53170	Saint-Eustache
+T258	Place 53469 53474	Brest
+T259	Place 53611 53616	Paris
+T260	Place 53636 53641	Paris
+T261	Person 53701 53707	Claude
+T262	Person 53760 53768	François
+T263	Person 54889 54900	Chantemesse
+T264	Person 54971 54982	Chantemesse
+T265	Place 55079 55092	rue Rambuteau
+T266	Person 55204 55210	Claude
+T267	Place 55256 55262	Halles
+T268	Person 55448 55457	Sarriette
+T269	Person 55575 55580	Jules
+T270	Person 55629 55635	Lecœur
+T271	Person 55652 55657	Saget
+T272	Person 55995 56001	Claire
+T273	Person 56165 56172	Auguste
+T274	Person 56176 56185	Augustine
+T275	Place 56318 56327	Montrouge
+T276	Place 56602 56608	Halles
+T277	Person 56688 56694	Cadine
+T278	Person 56698 56706	Marjolin
+T279	Person 56819 56825	Claude
+T280	Person 56918 56922	Gras
+T281	Person 56942 56946	Gras
+T282	Person 57004 57008	Gras
+T283	Place 57122 57135	rue Pirouette
+T284	Person 57263 57270	Lebigre
+T285	Person 58033 58037	Lisa
+T286	Person 57539 57546	Lebigre
+T287	Person 58919 58924	Quenu
+T288	Person 59436 59441	Quenu
+T289	Person 59409 59416	Lebigre
+T290	Person 59477 59483	Claude
+T291	Person 59243 59247	Lisa

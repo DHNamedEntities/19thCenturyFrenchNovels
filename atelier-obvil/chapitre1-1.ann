@@ -1,0 +1,99 @@
+T1	Place 105 110	Paris
+T2	Person 1327 1342	madame François
+T3	Person 1724 1739	Madame François
+T4	Person 2497 2512	Madame François
+T5	Person 2910 2925	madame François
+T6	Place 3208 3213	Paris
+T7	Person 3556 3571	Madame François
+T8	Place 3654 3659	Paris
+T9	Place 3819 3825	Halles
+T10	Place 4240 4246	Halles
+T11	Place 4530 4536	Halles
+T12	Person 5179 5194	madame François
+T13	Place 5766 5771	Paris
+T14	Person 5863 5878	madame François
+T15	Place 5989 5995	Halles
+T16	Person 6043 6050	Florent
+T17	Person 6341 6348	Florent
+T18	Place 6382 6387	Paris
+T19	Place 6849 6854	Havre
+T20	Place 6937 6942	Rouen
+T21	Place 6974 6979	Rouen
+T22	Place 7593 7598	Paris
+T23	Place 7730 7735	Paris
+T24	Place 8181 8186	Paris
+T25	Person 8754 8761	Florent
+T26	Place 8820 8825	Paris
+T27	Person 10257 10264	Florent
+T28	Place 10276 10281	Paris
+T29	Person 10372 10387	madame François
+T30	Person 10450 10457	Florent
+T31	Person 10968 10983	madame François
+T32	Person 11338 11345	Florent
+T33	Person 11671 11678	Florent
+T34	Place 11896 11911	rue Montorgueil
+T36	Person 13293 13300	Florent
+T37	Person 14865 14880	madame François
+T38	Person 15390 15397	Florent
+T39	Place 15488 15493	Paris
+T40	Place 15542 15548	Halles
+T41	Person 16115 16122	Florent
+T42	Place 16250 16266	rue du Pont-Neuf
+T43	Place 16319 16333	rue Montmartre
+T45	Person 16539 16546	Florent
+T46	Place 16570 16585	rue Montorgueil
+T47	Place 18108 18123	rue Montorgueil
+T48	Person 18928 18935	Florent
+T50	Person 19112 19127	Madame François
+T51	Person 19214 19221	Florent
+T52	Place 19399 19410	rue Grenéta
+T53	Place 21213 21218	Havre
+T54	Person 21424 21431	Florent
+T55	Place 21634 21639	Paris
+T56	Place 21643 21648	Havre
+T57	Place 22090 22095	Paris
+T58	Place 22602 22608	Halles
+T59	Person 22953 22968	madame François
+T60	Person 22996 23003	Florent
+T61	Place 23399 23404	Paris
+T62	Person 23496 23503	Florent
+T63	Place 23552 23557	Paris
+T64	Person 24227 24234	Florent
+T65	Place 24264 24269	Paris
+T66	Person 25091 25098	Florent
+T67	Place 25603 25619	rue du Pont-Neuf
+T68	Person 25737 25744	Florent
+T69	Person 26510 26517	Florent
+T70	Person 27840 27847	Florent
+T71	Place 27952 27958	Halles
+T35	Place 319 334	pont de Neuilly
+T44	Place 416 424	Nanterre
+T72	Place 1475 1491	rue de Longchamp
+T73	Place 5841 5849	Nanterre
+T74	Place 6441 6448	Cayenne
+T75	Place 6525 6542	Guyane holandaise
+T76	Place 7051 7057	Vernon
+T77	Place 7691 7701	Courbevoie
+T78	Place 7942 7957	pont de Neuilly
+T79	Person 12131 12137;12138 12146	madame François
+T80	Place 14739 14753	Saint-Eustache
+T81	Place 14830 14851	pointe Saint-Eustache
+T82	Person 15064 15072	Lacaille
+T83	Person 15329 15337	Lacaille
+T84	Place 16283 16288	Seine
+T85	Place 16342 16345;16346 16357	rue Montorgueil
+T86	Person 16498 16514	mère Chantemesse
+T87	Place 16688 16708	boulevard Montmartre
+T88	Place 17007 17019	rue Vivienne
+T89	Place 19003 19017	Saint-Eustache
+T49	Place 19081 19091	Les Halles
+T90	Person 19144 19160	mère Chantemesse
+T91	Place 19287 19301	Saint-Eustache
+T92	Place 19955 19973	rue de la Lingerie
+T93	Place 20181 20196	fort de Bicêtre
+T94	Place 21135 21152	pont d'Austerlitz
+T95	Place 21331 21343	rue Vivienne
+T96	Person 22709 22725	mère Chantemesse
+T97	Person 23033 23049	mère Chantemesse
+T98	Place 27996 28009	rue Rambuteau
+T99	Person 28344 28350	Marcel

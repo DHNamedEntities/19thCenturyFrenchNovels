@@ -1,0 +1,106 @@
+T1	Place 45 50	Paris
+T2	Place 108 112	Gard
+T3	Person 165 170	Quenu
+T5	Person 928 933	Quenu
+T6	Person 1585 1590	Quenu
+T7	Person 2146 2151	Quenu
+T8	Place 3000 3005	Paris
+T9	Place 3524 3529	Paris
+T10	Person 3690 3695	Quenu
+T12	Person 4706 4711	Quenu
+T14	Person 5002 5007	Quenu
+T15	Person 5522 5527	Quenu
+T17	Person 6269 6274	Quenu
+T18	Person 6387 6392	Quenu
+T19	Person 7320 7325	Quenu
+T20	Person 8267 8272	Quenu
+T21	Person 8683 8688	Quenu
+T22	Person 9571 9576	Quenu
+T24	Person 10346 10351	Quenu
+T25	Place 10968 10973	Paris
+T26	Person 11001 11009	Gradelle
+T27	Place 11030 11043	rue Pirouette
+T28	Person 11264 11269	Quenu
+T29	Person 11383 11391	Gradelle
+T31	Place 13524 13529	Paris
+T32	Person 14067 14072	Quenu
+T33	Person 14645 14653	Gradelle
+T34	Person 14743 14751	Gradelle
+T35	Person 14970 14975	Quenu
+T36	Person 15223 15228	Quenu
+T37	Place 15294 15311	rue Royer-Collard
+T38	Person 15715 15723	Gradelle
+T39	Place 15810 15817	Cayenne
+T40	Person 15855 15860	Quenu
+T41	Person 16289 16297	Gradelle
+T42	Place 16818 16835	rue Royer-Collard
+T43	Person 16913 16918	Quenu
+T44	Person 17047 17052	Quenu
+T45	Person 17244 17252	Gradelle
+T46	Place 17562 17570	Plassans
+T47	Person 18351 18359	Gradelle
+T48	Place 18481 18494	rue Pirouette
+T49	Person 19040 19048	Gradelle
+T50	Person 19050 19055	Quenu
+T51	Person 19089 19094	Quenu
+T52	Place 19274 19282	Plassans
+T53	Person 19762 19767	Quenu
+T16	Person 5 12	Florent
+T54	Place 90 99	le Vigan,
+T4	Place 174 180	Yvetot
+T55	Person 547 554	Florent
+T56	Person 1406 1413	Florent
+T57	Place 1424 1429	Vigan
+T58	Person 2538 2545	Florent
+T59	Place 3045 3050	Vigan
+T60	Place 3730 3747	rue Saint-Jacques
+T61	Person 4155 4162	Florent
+T62	Person 4564 4571	Florent
+T63	Person 4940 4947	Florent
+T64	Person 5646 5653	Florent
+T65	Organization 5811 5821	la Faculté
+T67	Person 6523 6530	Florent
+T68	Person 7194 7201	Florent
+T69	Person 7595 7602	Florent
+T70	Place 7799 7816	rue Saint-Jacques
+T71	Person 7888 7894	Gavard
+T72	Person 7986 7993	Florent
+T73	Person 8162 8168	Gavard
+T74	Person 9438 9444	Gavard
+T75	Person 9879 9886	Florent
+T76	Person 10258 10265	Florent
+T77	Place 11066 11072	Halles
+T78	Person 11332 11339	Florent
+T79	Person 11740 11747	Florent
+T80	Place 13301 13320	quartier Mouffetard
+T81	Place 14211 14231	cimetière Montmartre
+T82	Person 14721 14728	Florent
+T83	Person 14906 14913	Florent
+T84	Person 15538 15545	Florent
+T85	Place 15568 15575	Bicêtre
+T86	Person 17152 17159	Florent
+T87	Place 17458 17468	rue Cuvier
+T88	Place 17478 17496	Jardin des Plantes
+T89	Person 17765 17769	Lisa
+T90	Person 18132 18136	Lisa
+T91	Person 18274 18278	Lisa
+T92	Place 18325 18335	rue Cuvier
+T93	Person 19226 19230	Lisa
+T94	Person 19261 19269	Macquart
+T95	Person 19833 19837	Lisa
+T96	Person 20147 20155	Macquart
+T97	Person 20173 20181	Macquart
+T98	Person 20224 20232	Macquart
+T11	Place 3697 3714	rue Royer-Collard
+T13	Place 4887 4904	rue Royer-Collard
+T66	Place 6114 6132	rue de l'Estrapade
+T23	Place 10102 10119	rue Royer-Collard
+T30	Place 13236 13253	barrière d'Italie
+T99	Place 13133 13150	rue Saint-Jacques
+T100	Organization 3587 3603	l'École de droit
+T101	Person 3605 3612	Florent
+T102	Place 227 234	le Midi
+T103	Person 2012 2019	Florent
+T104	Place 17595 17599	Midi
+T105	Organization 14447 14467	préfecture de police
+T106	Place 14045 14064	casemate de Bicêtre

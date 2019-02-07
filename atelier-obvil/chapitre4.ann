@@ -1,0 +1,466 @@
+T1	Person 29 37	Marjolin
+T2	Place 1678 1689	Saint-Denis
+T3	Person 1591 1602	Chantemesse
+T4	Person 2492 2498	Cadine
+T5	Person 2737 2744	Thérèse
+T6	Place 8603 8609	Halles
+T10	Place 36158 36168	Prouvaires
+T11	Place 36316 36330	Saint-Eustache
+T12	Place 35961 35972	Vauvilliers
+T13	Place 35779 35788	Deux-Écus
+T14	Place 35800 35807	Viarmes
+T15	Place 35760 35766	Sauval
+T16	Place 35744 35751	Babille
+T17	Person 32964 32970	Claude
+T18	Person 2562 2568	Cadine
+T19	Person 1505 1513	Marjolin
+T20	Person 1541 1549	Marjolin
+T21	Person 1849 1860	Chantemesse
+T22	Person 1896 1902	Cadine
+T23	Person 2106 2117	Chantemesse
+T24	Person 2223 2234	Chantemesse
+T25	Person 2530 2541	Chantemesse
+T26	Person 2588 2596	Marjolin
+T27	Person 3042 3050	Marjolin
+T28	Person 3073 3084	Chantemesse
+T29	Person 3549 3555	Cadine
+T30	Person 3559 3567	Marjolin
+T31	Person 3715 3726	Chantemesse
+T32	Person 3786 3792	Cadine
+T33	Person 3849 3857	Marjolin
+T34	Person 4117 4125	Marjolin
+T35	Person 4344 4350	Cadine
+T36	Person 4399 4407	Marjolin
+T37	Person 4509 4520	Chantemesse
+T38	Person 5039 5045	Cadine
+T39	Person 5075 5083	Marjolin
+T40	Person 5411 5422	Chantemesse
+T41	Person 6069 6075	Cadine
+T42	Person 6079 6087	Marjolin
+T43	Person 6381 6392	Chantemesse
+T44	Person 6469 6475	Cadine
+T45	Person 6479 6487	Marjolin
+T46	Person 7069 7080	Chantemesse
+T47	Person 8435 8441	Cadine
+T48	Person 8466 8474	Marjolin
+T49	Person 8479 8487	Marjolin
+T50	Person 8515 8521	Cadine
+T51	Person 8716 8724	Marjolin
+T52	Person 8751 8757	Cadine
+T53	Person 8777 8788	Chantemesse
+T54	Person 9133 9144	Chantemesse
+T55	Person 9884 9890	Cadine
+T56	Person 9926 9934	Marjolin
+T57	Person 10494 10505	Chantemesse
+T58	Person 10809 10817	Marjolin
+T59	Person 10864 10870	Cadine
+T60	Person 12076 12084	Marjolin
+T61	Person 12582 12590	Marjolin
+T62	Person 13015 13023	Marjolin
+T63	Person 13112 13123	Chantemesse
+T64	Person 13151 13157	Cadine
+T65	Person 13241 13252	Chantemesse
+T66	Person 13422 13428	Cadine
+T67	Person 13515 13523	Marjolin
+T68	Person 14299 14305	Cadine
+T69	Person 14495 14503	Marjolin
+T70	Person 14716 14724	Marjolin
+T71	Person 15210 15216	Cadine
+T72	Person 15686 15692	Cadine
+T73	Person 15884 15890	Pierre
+T74	Person 15868 15873	Marie
+T75	Person 15901 15907	Joseph
+T76	Person 16150 16156	Cadine
+T77	Person 16716 16724	Marjolin
+T78	Person 17658 17664	Cadine
+T79	Person 18232 18240	Marjolin
+T80	Person 18739 18745	Cadine
+T81	Person 20517 20525	Marjolin
+T82	Person 22027 22033	Cadine
+T83	Person 22037 22045	Marjolin
+T84	Person 22088 22099	Chantemesse
+T85	Person 22465 22476	Chantemesse
+T86	Person 23713 23721	Marjolin
+T87	Person 23739 23745	Cadine
+T88	Person 24322 24328	Cadine
+T89	Person 24431 24439	Marjolin
+T90	Person 24671 24682	Chantemesse
+T91	Person 24971 24977	Cadine
+T92	Person 26311 26319	Marjolin
+T93	Person 26330 26336	Cadine
+T94	Person 27292 27298	Cadine
+T95	Person 28011 28017	Cadine
+T96	Person 28021 28029	Marjolin
+T97	Person 29727 29733	Cadine
+T98	Person 30280 30286	Cadine
+T99	Person 30360 30368	Marjolin
+T100	Person 30699 30713	Claude Lantier
+T101	Person 32918 32924	Cadine
+T102	Person 32928 32936	Marjolin
+T103	Person 33365 33371	Cadine
+T104	Person 33377 33385	Marjolin
+T105	Person 33877 33883	Claude
+T106	Person 34150 34156	Cadine
+T107	Person 34160 34168	Marjolin
+T108	Person 36170 36176	Claude
+T109	Person 36831 36837	Cadine
+T110	Person 36841 36849	Marjolin
+T111	Person 38507 38515	Marjolin
+T112	Person 38665 38671	Cadine
+T113	Person 39767 39773	Cadine
+T114	Person 39777 39785	Marjolin
+T115	Person 39846 39852	Claude
+T116	Person 40208 40214	Cadine
+T117	Person 41597 41603	Cadine
+T118	Person 43916 43922	Cadine
+T119	Person 44265 44271	Claude
+T120	Person 45332 45338	Cadine
+T121	Person 45510 45516	Claude
+T122	Person 45540 45546	Cadine
+T123	Person 46137 46143	Claude
+T124	Person 46145 46151	Cadine
+T125	Person 46155 46163	Marjolin
+T126	Person 46387 46393	Claude
+T127	Person 48241 48247	Claude
+T128	Person 54141 54147	Claude
+T129	Person 63517 63531	Claude Lantier
+T130	Person 83281 83287	Claude
+T131	Person 85002 85008	Claude
+T132	Person 49022 49030	Marjolin
+T133	Person 49685 49693	Marjolin
+T134	Person 50595 50603	Marjolin
+T135	Person 51798 51806	Marjolin
+T136	Person 53463 53471	Marjolin
+T137	Person 53908 53916	Marjolin
+T138	Person 54569 54577	Marjolin
+T139	Person 55268 55276	Marjolin
+T140	Person 56114 56122	Marjolin
+T141	Person 63363 63371	Marjolin
+T142	Person 63838 63846	Marjolin
+T143	Person 64790 64798	Marjolin
+T144	Person 66465 66473	Marjolin
+T145	Person 67892 67900	Marjolin
+T146	Person 69081 69089	Marjolin
+T147	Person 69621 69629	Marjolin
+T148	Person 70059 70067	Marjolin
+T149	Person 71543 71551	Marjolin
+T150	Person 73350 73358	Marjolin
+T151	Person 73684 73692	Marjolin
+T152	Person 74863 74871	Marjolin
+T153	Person 75351 75359	Marjolin
+T154	Person 77593 77601	Marjolin
+T155	Person 79248 79256	Marjolin
+T156	Person 79918 79926	Marjolin
+T157	Person 80476 80484	Marjolin
+T158	Person 83512 83520	Marjolin
+T159	Person 83655 83663	Marjolin
+T160	Person 84222 84230	Marjolin
+T161	Person 84649 84657	Marjolin
+T162	Person 103360 103368	Marjolin
+T163	Person 103916 103924	Marjolin
+T164	Person 49089 49100	Chantemesse
+T165	Person 54750 54761	Chantemesse
+T166	Person 103936 103942	Cadine
+T167	Person 84703 84709	Cadine
+T168	Person 84111 84117	Cadine
+T169	Person 83216 83222	Cadine
+T170	Person 78998 79004	Cadine
+T171	Person 64692 64698	Cadine
+T172	Person 55141 55147	Cadine
+T173	Person 54686 54692	Cadine
+T174	Person 54077 54083	Cadine
+T175	Person 53941 53947	Cadine
+T176	Person 53269 53275	Cadine
+T177	Person 51785 51791	Cadine
+T178	Person 50049 50055	Cadine
+T179	Person 49675 49681	Cadine
+T180	Person 49012 49018	Cadine
+T181	Person 51642 51649	Florent
+T182	Person 57314 57321	Florent
+T183	Person 59200 59207	Florent
+T184	Person 59308 59315	Florent
+T185	Person 62536 62543	Florent
+T186	Person 63014 63021	Florent
+T187	Person 63462 63469	Florent
+T188	Person 81698 81705	Florent
+T189	Person 83270 83277	Florent
+T190	Person 85032 85039	Florent
+T191	Person 85180 85187	Florent
+T192	Person 85170 85176	Claude
+T193	Person 86437 86444	Florent
+T194	Person 88175 88182	Florent
+T195	Person 88517 88524	Florent
+T196	Person 89295 89302	Florent
+T197	Person 90124 90131	Florent
+T198	Person 93452 93459	Florent
+T199	Person 94320 94327	Florent
+T200	Person 95169 95176	Florent
+T201	Person 96965 96972	Florent
+T202	Person 98275 98282	Florent
+T203	Person 98756 98763	Florent
+T204	Person 99896 99903	Florent
+T205	Person 100015 100022	Florent
+T206	Person 100841 100848	Florent
+T207	Person 102102 102109	Florent
+T208	Person 103379 103386	Florent
+T209	Person 104924 104931	Florent
+T210	Person 105716 105723	Florent
+T211	Person 105539 105545	Claude
+T212	Person 104934 104940	Claude
+T213	Person 103447 103453	Claude
+T214	Person 102152 102158	Claude
+T215	Person 101517 101521	Caïn
+T216	Person 101539 101543	Abel
+T217	Person 100878 100884	Claude
+T218	Person 100509 100515	Claude
+T219	Person 99666 99672	Claude
+T220	Person 98586 98592	Claude
+T221	Person 97967 97973	Claude
+T222	Person 95253 95259	Claude
+T223	Person 94973 94979	Claude
+T224	Person 94508 94514	Claude
+T225	Person 94310 94316	Claude
+T226	Person 90576 90582	Claude
+T227	Person 89686 89692	Claude
+T228	Person 87083 87089	Claude
+T229	Person 86427 86433	Claude
+T230	Person 56139 56143	Lisa
+T231	Person 59385 59389	Lisa
+T232	Person 60036 60040	Lisa
+T233	Person 60910 60914	Lisa
+T234	Person 62051 62055	Lisa
+T235	Person 62620 62624	Lisa
+T236	Person 63412 63416	Lisa
+T237	Person 64778 64782	Lisa
+T238	Person 67115 67119	Lisa
+T239	Person 68126 68130	Lisa
+T240	Person 68515 68519	Lisa
+T241	Person 69644 69648	Lisa
+T242	Person 70154 70158	Lisa
+T243	Person 71513 71517	Lisa
+T244	Person 72612 72616	Lisa
+T245	Person 73822 73826	Lisa
+T246	Person 74673 74677	Lisa
+T247	Person 75461 75465	Lisa
+T248	Person 76926 76930	Lisa
+T249	Person 77889 77893	Lisa
+T250	Person 78115 78119	Lisa
+T251	Person 78775 78779	Lisa
+T252	Person 79447 79451	Lisa
+T253	Person 81470 81474	Lisa
+T254	Person 84360 84364	Lisa
+T255	Person 84488 84492	Lisa
+T256	Person 84956 84960	Lisa
+T257	Person 91222 91226	Lisa
+T258	Person 92858 92862	Lisa
+T259	Person 93874 93878	Lisa
+T260	Person 99387 99391	Lisa
+T261	Person 104592 104596	Lisa
+T262	Person 63544 63552	François
+T263	Person 85315 85323	François
+T264	Person 86496 86504	François
+T265	Person 87041 87049	François
+T266	Person 89655 89663	François
+T267	Person 93677 93685	François
+T268	Person 95308 95316	François
+T269	Person 95812 95820	François
+T270	Person 97763 97771	François
+T271	Person 98244 98252	François
+T272	Person 98744 98752	François
+T273	Person 99766 99774	François
+T274	Person 104909 104917	François
+T275	Person 105014 105022	François
+T276	Person 105031 105039	François
+T277	Person 105127 105135	François
+T278	Person 103191 103196	Quenu
+T279	Person 83610 83615	Quenu
+T280	Person 81537 81542	Quenu
+T281	Person 81181 81186	Quenu
+T282	Person 80718 80723	Quenu
+T283	Person 80136 80141	Quenu
+T284	Person 62331 62336	Quenu
+T285	Person 60371 60376	Quenu
+T286	Person 59487 59492	Quenu
+T287	Person 59077 59082	Quenu
+T288	Person 59086 59093	Pauline
+T289	Person 57817 57822	Quenu
+T290	Person 57744 57749	Quenu
+T291	Person 57059 57064	Quenu
+T292	Person 56827 56832	Quenu
+T293	Person 55434 55439	Quenu
+T294	Person 51386 51400	Quenu-Gradelle
+T295	Person 49755 49769	Quenu-Gradelle
+T296	Person 60054 60063	Augustine
+T297	Person 63143 63152	Augustine
+T298	Person 82375 82384	Augustine
+T299	Person 53925 53929	Léon
+T300	Person 53520 53524	Léon
+T301	Person 51128 51132	Léon
+T302	Person 50607 50611	Léon
+T303	Person 49723 49727	Léon
+T304	Person 54595 54601	Gavard
+T305	Person 56202 56208	Gavard
+T306	Person 56411 56417	Gavard
+T307	Person 58501 58507	Gavard
+T308	Person 63239 63245	Gavard
+T309	Person 63660 63666	Gavard
+T310	Person 67290 67296	Gavard
+T311	Person 67882 67888	Gavard
+T312	Person 69821 69827	Gavard
+T313	Person 70010 70016	Gavard
+T314	Person 70944 70950	Gavard
+T315	Person 73276 73282	Gavard
+T316	Person 75933 75939	Gavard
+T317	Person 80165 80171	Gavard
+T318	Person 81610 81616	Gavard
+T319	Person 103316 103322	Gavard
+T320	Person 103673 103679	Gavard
+T321	Person 104827 104833	Gavard
+T322	Person 60120 60127	Pauline
+T323	Person 72470 72477	Palette
+T324	Person 74247 74254	Palette
+T325	Person 75084 75091	Palette
+T326	Person 75196 75200	Léda
+T327	Person 81425 81434	Taboureau
+T328	Person 80364 80373	Taboureau
+T329	Person 40425 40434	Taboureau
+T330	Person 56639 56644	Saget
+T331	Person 57169 57176	Lebigre
+T332	Person 56600 56607	Lebigre
+T333	Person 83462 83467	Saget
+T334	Person 84083 84088	Saget
+T335	Person 103340 103345	Saget
+T336	Person 103774 103779	Saget
+T337	Person 103790 103796	Lecœur
+T338	Person 104222 104229	Charvet
+T339	Person 104231 104239	Clémence
+T340	Person 104332 104338	Robine
+T341	Person 104241 104246	Logre
+T342	Person 104248 104256	Lacaille
+T343	Person 104126 104133	Lebigre
+T344	Person 104138 104142	Gras
+T345	Person 103947 103956	Sarriette
+T346	Person 104673 104678	Saget
+T347	Person 61252 61260	Gradelle
+T348	Person 83054 83061	Roustan
+T349	Person 93999 94008	Balthazar
+T350	Person 93048 93055	Auguste
+T351	Person 89762 89771	Balthazar
+T352	Person 89819 89828	Balthazar
+T353	Person 87410 87419	Balthazar
+T354	Person 86525 86534	Balthazar
+T355	Person 85920 85929	Balthazar
+T356	Person 60043 60050	Auguste
+T357	Person 91257 91264	Auguste
+T358	Person 104515 104520	Logre
+T359	Person 61404 61412	Verlaque
+T360	Person 103216 103223	Méhudin
+T361	Place 52 72	marché des Innocents
+T362	Place 2979 2990	rue au Lard
+T363	Place 5193 5204	rue au Lard
+T364	Place 5620 5631	rue au Lard
+T365	Place 5731 5749	rue de la Lingerie
+T366	Place 6751 6768	rue de la Poterie
+T367	Place 11196 11202	Halles
+T368	Place 12499 12513	quartier Latin
+T369	Place 12521 12538	rue Saint-Jacques
+T7	Place 12544 12556	rue Dauphine
+T8	Place 12570 12580	Luxembourg
+T370	Place 13292 13306	quartier Latin
+T371	Place 13629 13635	Halles
+T9	Place 36494 36500	Halles
+T372	Place 15804 15813	Montreuil
+T373	Place 19162 19168	Halles
+T374	Place 19181 19187	Halles
+T375	Place 20842 20853	Romainville
+T376	Place 21107 21113	Halles
+T377	Place 21571 21577	Halles
+T378	Place 21613 21619	Halles
+T379	Place 21910 21916	Halles
+T380	Place 22775 22786	rue au Lard
+T381	Place 24069 24075	Halles
+T382	Place 25182 25188	Halles
+T383	Place 27083 27089	Halles
+T384	Place 28276 28281	Paris
+T385	Place 34192 34198	Halles
+T386	Place 34909 34928	quartier des Halles
+T387	Place 35155 35160	Paris
+T388	Place 35462 35474	Halle au blé
+T389	Place 36557 36573	rue du Pont-Neuf
+T390	Place 36580 36594	rue des Halles
+T391	Place 36888 36907	rue des Bourdonnais
+T392	Place 37219 37224	Paris
+T393	Place 37244 37280	rues de la Poterie et de la Lingerie
+T394	Place 37366 37408	rues de la Ferronnerie et de l’Aiguillerie
+T395	Place 37481 37494	rue Courtalon
+T396	Place 37536 37558	place Sainte-Opportune
+T397	Place 37564 37579	rue Saint-Denis
+T398	Place 37668 37683	Rue Saint-Denis
+T399	Place 38167 38245	rues Pirouette, de Mondétour, de la Petite-Truanderie, de la Grande-Truanderie
+T400	Place 38397 38424	rue de la Grande-Truanderie
+T401	Place 38629 38646	rue Pierre-Lescot
+T402	Place 38650 38663	rue Rambuteau
+T403	Place 39267 39282	Rue Montorgueil
+T404	Place 39284 39298	rue Montmartre
+T405	Place 39607 39622	rue Coquillière
+T406	Place 39922 39934	Halle au blé
+T407	Place 39943 39952	rue Oblin
+T408	Place 40506 40517	rue Turbigo
+T409	Place 41236 41256	square des Innocents
+T410	Place 41744 41765	pointe Saint-Eustache
+T411	Place 41904 41910	Halles
+T412	Place 42476 42490	rue Montmartre
+T413	Place 44318 44334	rue Saint-Honoré
+T414	Place 46185 46191	Halles
+T415	Place 46417 46431	rue Montmartre
+T416	Place 46474 46480	Halles
+T417	Place 47065 47071	Halles
+T418	Place 47949 47959	rue Berger
+T419	Place 48483 48496	rue Rambuteau
+T420	Place 48512 48528	rue du Pont-Neuf
+T421	Place 50856 50877	rue de la Cossonnerie
+T422	Place 50916 50943	rue de la Grande-Truanderie
+T423	Place 51096 51102	Halles
+T424	Place 52133 52139	Halles
+T425	Place 52577 52583	Halles
+T426	Place 52805 52832	rue de la Grande-Truanderie
+T427	Place 54905 54924	quartier des Halles
+T428	Place 73112 73118	Halles
+T429	Place 79637 79643	Halles
+T430	Place 79669 79682	rue Rambuteau
+T431	Place 83107 83125	carreau des Halles
+T432	Place 85399 85414	rue Montorgueil
+T433	Place 85419 85430	Compas d’or
+T434	Place 85503 85522	restaurant Philippe
+T435	Place 86020 86035	rue Montorgueil
+T436	Place 86090 86098	Nanterre
+T437	Place 86212 86218	Halles
+T438	Place 86808 86813	Paris
+T439	Place 86932 86940	Nanterre
+T440	Place 87064 87080	rue du Pont-Neuf
+T441	Place 87290 87303	rue de Rivoli
+T442	Place 87546 87560	Champs-Élysées
+T443	Place 87666 87686	jardin des Tuileries
+T444	Place 87767 87779	rue du Roule
+T445	Place 87820 87834	Saint-Eustache
+T446	Place 87906 87912	Halles
+T447	Place 88274 88288	Saint-Eustache
+T448	Place 88308 88314	Halles
+T449	Place 89262 89268	Halles
+T450	Place 89409 89423	Saint-Eustache
+T451	Place 89447 89461	Saint-Eustache
+T452	Place 89530 89536	Halles
+T453	Place 93343 93358	Arc de triomphe
+T454	Place 93592 93597	Paris
+T455	Place 94079 94087	Nanterre
+T456	Place 94590 94596	Halles
+T457	Place 99430 99436	Halles
+T458	Place 100118 100128	Courbevoie
+T459	Place 104408 104423	pont de Neuilly
+T460	Place 104428 104443	Arc de triomphe
+T461	Place 105266 105281	Arc de triomphe
+T462	Place 105316 105324	Suresnes
+T463	Place 105739 105744	Paris
+T464	Place 105759 105764	Paris
+T465	Place 105833 105840	Cayenne
+T466	Place 105863 105869	Halles
